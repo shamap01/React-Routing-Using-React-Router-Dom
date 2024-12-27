@@ -31,6 +31,10 @@ footer {
     bottom: 0;
 }
 
+.content {
+  margin: 80px 20px 60px;
+}
+
 main {
     padding: 20px;
     min-height: calc(100vh - 100px); /* Adjust for header and footer height */
