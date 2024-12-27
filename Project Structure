@@ -1,0 +1,13 @@
+Create the necessary components for your application. You can create a folder named components inside the src directory and create the following files.
+
+src/
+├── components/
+│   ├── Header.js
+│   ├── Footer.js
+│   ├── Home.js
+│   ├── About.js
+│   ├── Contact.js
+│   ├── Services.js
+├── App.js
+├── index.js
+├── App.css
