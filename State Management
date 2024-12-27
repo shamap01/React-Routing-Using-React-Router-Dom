@@ -1,0 +1,1 @@
+If your application grows in complexity, you might want to implement state management using Context API or libraries like Redux. This will help manage the state across different components more effectively.
